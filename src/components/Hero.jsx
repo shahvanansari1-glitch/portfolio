@@ -1,5 +1,5 @@
 const stats = [
-  { value: '3+', label: 'years in Linux administration' },
+  { value: '4+', label: 'years in Linux administration' },
   { value: '20+', label: 'tickets resolved a day' },
   { value: '95%', label: 'SLA compliance' },
   { value: '1500+', label: 'tickets handled' },
