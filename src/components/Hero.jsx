@@ -14,7 +14,7 @@ export default function Hero() {
       </h1>
       <p className="tagline">I keep servers running — and build tools to do it faster.</p>
       <p className="bio">
-        Linux Administrator with 3+ years managing Red Hat, CentOS, and Ubuntu environments —
+        Linux Administrator with 4+ years managing Red Hat, CentOS, and Ubuntu environments —
         LDAP &amp; Active Directory, patching, monitoring, firewall support, and shell automation.
         20+ tickets a day at 95% SLA.
       </p>
